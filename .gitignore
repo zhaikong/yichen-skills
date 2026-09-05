@@ -3,8 +3,6 @@
 **/wechat-keys.json
 **/wechat-*.json
 **/wechat-*-state.json
-**/.env
-**/.env.*
 **/*secret*
 **/*token*
 
@@ -57,3 +55,5 @@ plugins/yichen-grok-consult/**/grok-home/
 
 # Local notes and extras
 .write_test.txt
+config.bat
+node_modules
